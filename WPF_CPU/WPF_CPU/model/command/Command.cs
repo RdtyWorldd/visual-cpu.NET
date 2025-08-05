@@ -29,7 +29,7 @@ namespace WPF_CPU.model.command
 
           public enum CommandType
           {
-               LD, ST, MV, INIT, ADD, SUM, SUB, MUL, DIV, PRINT
+               LD, ST, MV, INIT, ADD, SUM, SUB, MUL, DIV
           }
      }
 }
