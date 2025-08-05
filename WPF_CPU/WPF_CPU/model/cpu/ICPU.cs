@@ -7,8 +7,8 @@ using WPF_CPU.model.command;
 
 namespace WPF_CPU.model.cpu
 {
-     public interface ICPU
-     {
-          void Execute(Command command);
-     }
+    public interface ICPU
+    {
+        void Execute(Command command);
+    }
 }
